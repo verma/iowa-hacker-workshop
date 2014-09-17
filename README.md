@@ -8,7 +8,7 @@ _The_ place for everyone curious about technology to come and hang out.  _The_ p
 
 We’ve been typing in suggestions for this here, and we invite everyone to come and contribute to building up that perfect space (just send a pull request).  
 
-For this part of this project, _Money is no object_.
+Imagine, _Money is no object_ and you've got this awesome spot right in the middle of Downtown.  What would it be?
 
 
 # The list so far
