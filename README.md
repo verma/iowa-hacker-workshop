@@ -1,6 +1,6 @@
 The Iowa Hacker Workshop
 
-The point of this project is to create ideas and plans for a space in downtown iowa city dedicated to fostering the local tech community and ecosystem.  Imagine you were given absolute creative control...what this space should be like?
+The point of this project is to plan and create a space in downtown iowa city dedicated to fostering the local tech community and ecosystem.  Let's say you were given `absolute` creative control...what does it look like?
 
 
 The place for everyone curious about technology to come and hang out.  _The_ place we all technology people love.  A place to learn, to teach and grow ideas together.
