@@ -25,7 +25,7 @@ We’ve been typing in suggestions for this here, and we invite everyone to come
 - Have people from your own company come and hang out, bring projects for people to work on.  Meet potential hires.
 - Mood projection (awesome night time lighting and projector art, equipment and tools for electric / hardware / media  projects in general).
 - Feedback from visitors about stuff creating stuff
-- 
+- Minecraft blocks for furniture, lamps, tables, seating etc.
 # Inspiration
 - http://www.pinterest.com/freskdsm/workshop/
 
