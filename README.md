@@ -27,7 +27,7 @@ We’ve been typing in suggestions for this here, and we invite everyone to come
 - Feedback from visitors about stuff creating stuff
 - 
 # Inspiration
-- http://www.pinterest.com/pin/366761963378153306/
+- http://www.pinterest.com/freskdsm/workshop/
 
 # Resources
 Some of the related stuff:
