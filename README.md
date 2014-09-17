@@ -1,14 +1,12 @@
 The Iowa Hacker Workshop
 
-# Hello Fellow Hackers
+The point of this project is to create ideas and plans for a space in downtown iowa city dedicated to fostering the local tech community and ecosystem.  Imagine you were given absolute creative control...what this space should be like?
 
-We’ve been given a behemoth task for hacking a space which will grow and foster Iowa City Area’s tech culture.
 
-_The_ place for everyone curious about technology to come and hang out.  _The_ place we all technology people love.  A place to learn, to teach and grow ideas together.
+The place for everyone curious about technology to come and hang out.  _The_ place we all technology people love.  A place to learn, to teach and grow ideas together.
 
 We’ve been typing in suggestions for this here, and we invite everyone to come and contribute to building up that perfect space (just send a pull request).  
 
-Imagine, _Money is no object_ and you've got this awesome spot right in the middle of Downtown.  What would it be?
 
 
 # The list so far
